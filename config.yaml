@@ -8,7 +8,7 @@ processors:
 
 exporters:
   jaeger: # the Jaeger exporter, to ingest traces to backend
-    endpoint: "100.25.129.123:14250"
+    endpoint: "52.3.253.123:14250"
     tls:
       insecure: true
 
